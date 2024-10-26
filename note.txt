@@ -2,3 +2,4 @@
 2. clone
 3. fetch and prune
 4. fork
+5. squash
